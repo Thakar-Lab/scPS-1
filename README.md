@@ -19,7 +19,8 @@ library(Seurat) #Seurat V5
 library(GSEABase)
 library(genefilter)
 
-All the raw data for the data simulation and comparative analysis can be found at the following link: https://drive.google.com/drive/folders/1CvmtizSdgPDBALuo8Tfk4aPw2_opA-B6?usp=drive_link
+All the raw data for the data simulation and comparative analysis can be found at the following link: 
+https://drive.google.com/drive/folders/1Gvp4ydnJbHZEDIxLjyt0xrQcbMziwDBF?usp=drive_link
 
-###     Authors:Ruoqiao Wang
-###     Email:RuoQiao_Wang@URMC.Rochester.edu
+###     Authors:Ruoqiao Wang and Juilee Thakar
+###     Email:RuoQiao_Wang@URMC.Rochester.edu and juilee_thakar@urmc.rochester.edu
